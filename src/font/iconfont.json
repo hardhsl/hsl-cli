@@ -1,0 +1,156 @@
+{
+  "id": "1867521",
+  "name": "电子班牌",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15905691",
+      "name": "考勤",
+      "font_class": "kaoqin",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "15905692",
+      "name": "评价",
+      "font_class": "pingjia",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "15905693",
+      "name": "德育",
+      "font_class": "deyu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "15905694",
+      "name": "课程",
+      "font_class": "kecheng",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "15905695",
+      "name": "过程性",
+      "font_class": "guochengxing",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "15905696",
+      "name": "成绩",
+      "font_class": "chengji",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "15355537",
+      "name": "人数-01",
+      "font_class": "renshu-01",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "15354577",
+      "name": "请假",
+      "font_class": "qingjia",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "15354578",
+      "name": "已考勤",
+      "font_class": "yikaoqin",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "15354579",
+      "name": "未考勤",
+      "font_class": "weikaoqin",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "15329071",
+      "name": "bianji-01",
+      "font_class": "bianji-01",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "15329072",
+      "name": "shanchu-01",
+      "font_class": "shanchu-01",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "15329073",
+      "name": "chakan-01",
+      "font_class": "chakan-01",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "15182433",
+      "name": "考试管理-01",
+      "font_class": "kaoshiguanli-01",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "15180557",
+      "name": "课程管理-01",
+      "font_class": "kechengguanli-01",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "15180200",
+      "name": "走班排课",
+      "font_class": "zoubanpaike",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "15180201",
+      "name": "信息发布",
+      "font_class": "xinxifabu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "15180202",
+      "name": "设备管理",
+      "font_class": "shebeiguanli",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "15179149",
+      "name": "教务管理",
+      "font_class": "jiaowuguanli",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "15179151",
+      "name": "基础管理",
+      "font_class": "jichuguanli",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "15179152",
+      "name": "控制器",
+      "font_class": "kongzhiqi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}

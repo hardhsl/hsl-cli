@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('./font/iconfont.eot');
+    src: url('./font/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('./font/iconfont.woff2') format('woff2'),
+        url('./font/iconfont.woff') format('woff'),
+        url('./font/iconfont.ttf') format('truetype'),
+        url('./font/iconfont.svg#iconfont') format('svg');
+  }
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 12px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    cursor: pointer;
+  }
+  .ant-menu-light{
+    background: #1C2629 !important;
+    height: 90vh;
+  }
+  .ant-menu .ant-menu-item > a{
+    color: #fff !important;
+  }
+  .ant-menu .ant-menu-item > a:hover{
+    color: #eee !important;
+  }
+  .ant-menu .ant-menu-item-selected > a{
+    color:#1EB6AE !important;
+}
+.ant-menu .ant-menu-item-selected > a:hover{
+  color:#1EB6AE !important;
+}
+.ant-menu .ant-menu-item-selected{
+  background:rgba(255,255,255,.1) !important;
+}
+.app-container-radius{
+  background:rgba(255,255,255,1);
+  border:1px solid rgba(210,217,219,1);
+  border-radius:10px;
+}
+.ant-pagination{
+  margin-right: 15px !important;
+}
+.ant-btn-primary{
+  border-color: #fff !important;
+}
+.ant-btn{
+  border-radius: 6px !important;
+}
+.ant-menu-inline > .ant-menu-item{
+  height: 60px;
+  line-height: 60px;
+  padding-left: 74px !important;
+}
+.ant-menu-inline{
+  border-right: none;
+}
+.ant-carousel .slick-slide {
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+}
+.ant-carousel .slick-slide img{
+  width: 100%;
+}
+.wropBorder{
+  border:1px solid rgba(210,217,219,1);
+  border-radius: 8px;
+}

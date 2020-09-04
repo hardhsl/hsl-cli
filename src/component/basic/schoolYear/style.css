@@ -1,0 +1,7 @@
+.ant-btn-1{
+    background:linear-gradient(180deg,rgba(134,145,144,1),rgba(96,114,113,1)) !important;
+    color: #fff;
+}
+.ant-btn-1:hover{
+    color: #fff !important;
+}

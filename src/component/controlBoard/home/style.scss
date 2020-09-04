@@ -1,0 +1,129 @@
+
+div::-webkit-scrollbar {
+    width: 0;
+}
+
+
+.carouselItem{
+  position: relative;
+  div{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height:50px;
+    background:rgba(0,0,0,.6);
+    margin: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    padding: 0 25px;
+    cursor: pointer;
+    h5{
+      margin: 0;
+      color: #fff;
+      span{
+        margin-right: 10px;
+      }
+    }
+  }
+}
+.schoolMsgTab{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  div{
+    cursor: pointer;
+    span{
+      margin: 0 20px;
+    }
+  }
+}
+.dealWithBg{
+  width:77px;
+  height:103px;
+  background:linear-gradient(270deg,rgba(2,205,223,.2),rgba(19,156,210,.2));
+  border:1px solid rgba(255,255,255,1);
+  border-radius:6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 30px;
+  img{
+    width: 24px;
+    height: 24px;
+    margin-bottom: 17px;
+  }
+}
+.workBg{
+  background:linear-gradient(270deg,rgba(146,113,252,.2),rgba(248,94,163,.2));
+}
+.testBg{
+  background:linear-gradient(270deg,rgba(248,198,138,.2),rgba(244,91,106,.2));
+}
+
+// 日历
+.events {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.events .ant-badge-status {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  text-overflow: ellipsis;
+  font-size: 12px;
+}
+.notes-month {
+  text-align: center;
+  font-size: 28px;
+}
+.notes-month section {
+  font-size: 28px;
+}
+.calenderHeader{
+  display: flex;
+  justify-content: flex-end;
+}
+
+// 轮播详情弹窗
+.toastWrap{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 3000;
+  background: rgba(0,0,0,.77);
+  .toastComponent{
+    width: 878px;
+    background: #fff;
+    border-radius:12px;
+    min-height: 500px;
+    .toastHeader{
+      height: 80px;
+      width: 100%;
+      padding: 0 50px;
+      line-height: 80px;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      background:rgba(245,247,248,1);
+      border-radius: 12px 12px 0 0;
+    }
+    .toastMain{
+      padding: 40px 50px 80px;
+      img{
+        width: 774px;
+        height: 335px;
+        display: block;
+      }
+    }
+  }
+}

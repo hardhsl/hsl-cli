@@ -1,0 +1,41 @@
+.attendRow{
+    margin-top:10px;
+}
+.attendCol{
+    padding-right:20px;
+}
+.attendBox{
+    width:100%;
+    height:130px;
+    padding: 0 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.attendBox p{
+    margin-bottom: 0;
+}
+.iconText{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.attendIcon{
+    width:60px;
+    height:60px;
+    background:rgba(255,255,255,.2);
+    border-radius:15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconText > .iconfont{
+    margin-right: 10px;
+    font-size: 18px;
+}
+.attendIcon span{
+    font-size: 30px;
+}
+.echartRow{
+    background: #fff;
+}

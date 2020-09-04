@@ -1,0 +1,49 @@
+
+/* ***** Button ******* */
+.Blue{
+    background:linear-gradient(270deg,rgba(2,205,223,1),rgba(19,156,210,1)) !important;
+}
+
+.Gray{
+    background:linear-gradient(270deg,rgba(134,145,144,1),rgba(96,114,113,1)) !important;
+}
+.Purple{
+    background:linear-gradient(90deg,rgba(146,113,252,1),rgba(248,94,163,1)) !important;
+}
+.Orange{
+    background:linear-gradient(270deg,rgba(248,198,138,1),rgba(244,91,106,1)) !important;
+}
+.Green{
+    background:linear-gradient(270deg,rgba(41,220,213,1),rgba(29,180,152,1)) !important;
+}
+.Blue,.Gray,.Purple,.Orange,.Green{
+    color: #fff !important;
+    border-radius: 5px;
+    border-color: #fff;
+}
+.buttonHover:hover{
+    opacity: .8;
+}
+
+
+/* ******文字标题类****** */
+.absSignText{
+    color: #272B2B;
+    font-size: 14px;
+}
+.flex{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-justify-end{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+.flex-justify-start{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
